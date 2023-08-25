@@ -1,0 +1,1 @@
+This is a user management project. You can do all CRUD operations on your users. The project calls Firebase Realtime Database for those CRUD operations. If you want to use my project you need to create Firebase project, copy URL and paste to YOUR-FIREBASE-PROJECT-URL part in project. I used Newtonsoft(for converting JSON to class and class to JSON).
